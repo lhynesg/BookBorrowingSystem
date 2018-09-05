@@ -7,7 +7,7 @@ c.	To implement the system efficiency to the student.
 
 # Screenshots
 
-![](Images/bbs1.png)
-![](Images/bbs2.png)
-![](Images/bbs3.png)
-![](Images/bbs4.png)
+![](Images/bbs1.jpg)
+![](Images/bbs2.jpg)
+![](Images/bbs3.jpg)
+![](Images/bbs4.jpg)
